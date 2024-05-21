@@ -1,1 +1,1 @@
-# CodeClause_intership_MusicPlayer.gihub.io
+# CodeClause_internship_MusicPlayer.gihub.io
